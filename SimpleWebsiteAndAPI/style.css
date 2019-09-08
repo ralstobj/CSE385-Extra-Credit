@@ -1,0 +1,8 @@
+﻿#courseTable tr:hover {
+    background-color: #ccc;
+}
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 900px; /* or 950px */
+}
